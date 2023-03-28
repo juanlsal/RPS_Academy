@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan Lopez Salamanca\\Desktop\\Projects\\New folder\\RPS Academy\\RPS Academy\\RPS Academy.csproj",
+      "projectUniqueName": "C:\\Users\\Juan Lopez Salamanca\\Desktop\\Projects\\RPS Academy\\RPS Academy\\RPS Academy.csproj",
       "projectName": "RPS Academy",
-      "projectPath": "C:\\Users\\Juan Lopez Salamanca\\Desktop\\Projects\\New folder\\RPS Academy\\RPS Academy\\RPS Academy.csproj",
+      "projectPath": "C:\\Users\\Juan Lopez Salamanca\\Desktop\\Projects\\RPS Academy\\RPS Academy\\RPS Academy.csproj",
       "packagesPath": "C:\\Users\\Juan Lopez Salamanca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan Lopez Salamanca\\Desktop\\Projects\\New folder\\RPS Academy\\RPS Academy\\obj\\",
+      "outputPath": "C:\\Users\\Juan Lopez Salamanca\\Desktop\\Projects\\RPS Academy\\RPS Academy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juan Lopez Salamanca\\AppData\\Roaming\\NuGet\\NuGet.Config",

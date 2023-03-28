@@ -13,3 +13,18 @@ C:\Users\Juan Lopez Salamanca\Desktop\Projects\New folder\RPS Academy\RPS Academ
 C:\Users\Juan Lopez Salamanca\Desktop\Projects\New folder\RPS Academy\RPS Academy\obj\Debug\net6.0\RPS Academy.pdb
 C:\Users\Juan Lopez Salamanca\Desktop\Projects\New folder\RPS Academy\RPS Academy\obj\Debug\net6.0\RPS Academy.genruntimeconfig.cache
 C:\Users\Juan Lopez Salamanca\Desktop\Projects\New folder\RPS Academy\RPS Academy\obj\Debug\net6.0\ref\RPS Academy.dll
+C:\Users\Juan Lopez Salamanca\Desktop\Projects\RPS Academy\RPS Academy\bin\Debug\net6.0\RPS Academy.exe
+C:\Users\Juan Lopez Salamanca\Desktop\Projects\RPS Academy\RPS Academy\bin\Debug\net6.0\RPS Academy.deps.json
+C:\Users\Juan Lopez Salamanca\Desktop\Projects\RPS Academy\RPS Academy\bin\Debug\net6.0\RPS Academy.runtimeconfig.json
+C:\Users\Juan Lopez Salamanca\Desktop\Projects\RPS Academy\RPS Academy\bin\Debug\net6.0\RPS Academy.dll
+C:\Users\Juan Lopez Salamanca\Desktop\Projects\RPS Academy\RPS Academy\bin\Debug\net6.0\RPS Academy.pdb
+C:\Users\Juan Lopez Salamanca\Desktop\Projects\RPS Academy\RPS Academy\obj\Debug\net6.0\RPS Academy.csproj.AssemblyReference.cache
+C:\Users\Juan Lopez Salamanca\Desktop\Projects\RPS Academy\RPS Academy\obj\Debug\net6.0\RPS Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Lopez Salamanca\Desktop\Projects\RPS Academy\RPS Academy\obj\Debug\net6.0\RPS Academy.AssemblyInfoInputs.cache
+C:\Users\Juan Lopez Salamanca\Desktop\Projects\RPS Academy\RPS Academy\obj\Debug\net6.0\RPS Academy.AssemblyInfo.cs
+C:\Users\Juan Lopez Salamanca\Desktop\Projects\RPS Academy\RPS Academy\obj\Debug\net6.0\RPS Academy.csproj.CoreCompileInputs.cache
+C:\Users\Juan Lopez Salamanca\Desktop\Projects\RPS Academy\RPS Academy\obj\Debug\net6.0\RPS Academy.dll
+C:\Users\Juan Lopez Salamanca\Desktop\Projects\RPS Academy\RPS Academy\obj\Debug\net6.0\refint\RPS Academy.dll
+C:\Users\Juan Lopez Salamanca\Desktop\Projects\RPS Academy\RPS Academy\obj\Debug\net6.0\RPS Academy.pdb
+C:\Users\Juan Lopez Salamanca\Desktop\Projects\RPS Academy\RPS Academy\obj\Debug\net6.0\RPS Academy.genruntimeconfig.cache
+C:\Users\Juan Lopez Salamanca\Desktop\Projects\RPS Academy\RPS Academy\obj\Debug\net6.0\ref\RPS Academy.dll
